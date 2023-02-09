@@ -43,18 +43,3 @@ for repo in g.get_user().get_repos():
 
 More information can be found on the [PyGitHub documentation site.](https://pygithub.readthedocs.io/en/latest/introduction.html)
 
-## Development
-
-### Contributing
-
-Long-term discussion and bug reports are maintained via GitHub Issues.
-Code review is done via GitHub Pull Requests.
-
-For more information read [CONTRIBUTING.md].
-
-[CONTRIBUTING.md]: /CONTRIBUTING.md
-
-### Maintainership
-
-We're actively seeking maintainers that will triage issues and pull requests and cut releases.
-If you work on a project that leverages PyGitHub and have a vested interest in keeping the code alive and well, send an email to someone in the MAINTAINERS file.
